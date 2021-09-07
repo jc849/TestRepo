@@ -1,4 +1,4 @@
-# HSBUV Board with Nuvoton NPCM7mnx RunBMC module Quick (Standalone) Setup Guide 
+# Quick Setup Guide - HSBUV Board + Nuvoton NPCM7mnx RunBMC Module  
 
 # Table of Contents
 - [Module Overview](#module-overview)
